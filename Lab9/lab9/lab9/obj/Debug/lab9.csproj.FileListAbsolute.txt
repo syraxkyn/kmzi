@@ -1,0 +1,23 @@
+D:\3\КМЗИ\9\lab9\lab9\bin\Debug\lab9.exe.config
+D:\3\КМЗИ\9\lab9\lab9\bin\Debug\lab9.exe
+D:\3\КМЗИ\9\lab9\lab9\bin\Debug\lab9.pdb
+D:\3\КМЗИ\9\lab9\lab9\obj\Debug\lab9.csprojAssemblyReference.cache
+D:\3\КМЗИ\9\lab9\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+D:\3\КМЗИ\9\lab9\lab9\obj\Debug\lab9.exe
+D:\3\КМЗИ\9\lab9\lab9\obj\Debug\lab9.pdb
+D:\Education\3 курс 2 сем\KMZI\Lab9\lab9\lab9\bin\Debug\lab9.exe.config
+D:\Education\3 курс 2 сем\KMZI\Lab9\lab9\lab9\bin\Debug\lab9.exe
+D:\Education\3 курс 2 сем\KMZI\Lab9\lab9\lab9\bin\Debug\lab9.pdb
+D:\Education\3 курс 2 сем\KMZI\Lab9\lab9\lab9\obj\Debug\lab9.csproj.AssemblyReference.cache
+D:\Education\3 курс 2 сем\KMZI\Lab9\lab9\lab9\obj\Debug\lab9.csproj.SuggestedBindingRedirects.cache
+D:\Education\3 курс 2 сем\KMZI\Lab9\lab9\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+D:\Education\3 курс 2 сем\KMZI\Lab9\lab9\lab9\obj\Debug\lab9.exe
+D:\Education\3 курс 2 сем\KMZI\Lab9\lab9\lab9\obj\Debug\lab9.pdb
+D:\Lab9\lab9\lab9\bin\Debug\lab9.exe.config
+D:\Lab9\lab9\lab9\bin\Debug\lab9.exe
+D:\Lab9\lab9\lab9\bin\Debug\lab9.pdb
+D:\Lab9\lab9\lab9\obj\Debug\lab9.csproj.AssemblyReference.cache
+D:\Lab9\lab9\lab9\obj\Debug\lab9.csproj.SuggestedBindingRedirects.cache
+D:\Lab9\lab9\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+D:\Lab9\lab9\lab9\obj\Debug\lab9.exe
+D:\Lab9\lab9\lab9\obj\Debug\lab9.pdb

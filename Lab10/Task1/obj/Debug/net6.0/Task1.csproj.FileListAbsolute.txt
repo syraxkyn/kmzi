@@ -1,0 +1,30 @@
+D:\Education\3 курс 2 сем\KMZI\Lab10\Task1\bin\Debug\net6.0\Task1.exe
+D:\Education\3 курс 2 сем\KMZI\Lab10\Task1\bin\Debug\net6.0\Task1.deps.json
+D:\Education\3 курс 2 сем\KMZI\Lab10\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+D:\Education\3 курс 2 сем\KMZI\Lab10\Task1\bin\Debug\net6.0\Task1.dll
+D:\Education\3 курс 2 сем\KMZI\Lab10\Task1\bin\Debug\net6.0\Task1.pdb
+D:\Education\3 курс 2 сем\KMZI\Lab10\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+D:\Education\3 курс 2 сем\KMZI\Lab10\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\3 курс 2 сем\KMZI\Lab10\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+D:\Education\3 курс 2 сем\KMZI\Lab10\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+D:\Education\3 курс 2 сем\KMZI\Lab10\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+D:\Education\3 курс 2 сем\KMZI\Lab10\Task1\obj\Debug\net6.0\Task1.dll
+D:\Education\3 курс 2 сем\KMZI\Lab10\Task1\obj\Debug\net6.0\refint\Task1.dll
+D:\Education\3 курс 2 сем\KMZI\Lab10\Task1\obj\Debug\net6.0\Task1.pdb
+D:\Education\3 курс 2 сем\KMZI\Lab10\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+D:\Education\3 курс 2 сем\KMZI\Lab10\Task1\obj\Debug\net6.0\ref\Task1.dll
+D:\LabCrypto\Lab10\Task1\bin\Debug\net6.0\Task1.exe
+D:\LabCrypto\Lab10\Task1\bin\Debug\net6.0\Task1.deps.json
+D:\LabCrypto\Lab10\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+D:\LabCrypto\Lab10\Task1\bin\Debug\net6.0\Task1.dll
+D:\LabCrypto\Lab10\Task1\bin\Debug\net6.0\Task1.pdb
+D:\LabCrypto\Lab10\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+D:\LabCrypto\Lab10\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\LabCrypto\Lab10\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+D:\LabCrypto\Lab10\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+D:\LabCrypto\Lab10\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+D:\LabCrypto\Lab10\Task1\obj\Debug\net6.0\Task1.dll
+D:\LabCrypto\Lab10\Task1\obj\Debug\net6.0\refint\Task1.dll
+D:\LabCrypto\Lab10\Task1\obj\Debug\net6.0\Task1.pdb
+D:\LabCrypto\Lab10\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+D:\LabCrypto\Lab10\Task1\obj\Debug\net6.0\ref\Task1.dll

@@ -1,0 +1,14 @@
+D:\3\КМЗИ\10 - ЭЦП\Sign\Ell-Gamal_sign\bin\Debug\Ell-Gamal_sign.exe.config
+D:\3\КМЗИ\10 - ЭЦП\Sign\Ell-Gamal_sign\bin\Debug\Ell-Gamal_sign.exe
+D:\3\КМЗИ\10 - ЭЦП\Sign\Ell-Gamal_sign\bin\Debug\Ell-Gamal_sign.pdb
+D:\3\КМЗИ\10 - ЭЦП\Sign\Ell-Gamal_sign\obj\Debug\Ell-Gamal_sign.csproj.CoreCompileInputs.cache
+D:\3\КМЗИ\10 - ЭЦП\Sign\Ell-Gamal_sign\obj\Debug\Ell-Gamal_sign.exe
+D:\3\КМЗИ\10 - ЭЦП\Sign\Ell-Gamal_sign\obj\Debug\Ell-Gamal_sign.pdb
+D:\Education\3 курс 2 сем\KMZI\Lab12\Sign\Ell-Gamal_sign\bin\Debug\Ell-Gamal_sign.exe.config
+D:\Education\3 курс 2 сем\KMZI\Lab12\Sign\Ell-Gamal_sign\bin\Debug\Ell-Gamal_sign.exe
+D:\Education\3 курс 2 сем\KMZI\Lab12\Sign\Ell-Gamal_sign\bin\Debug\Ell-Gamal_sign.pdb
+D:\Education\3 курс 2 сем\KMZI\Lab12\Sign\Ell-Gamal_sign\obj\Debug\Ell-Gamal_sign.csproj.AssemblyReference.cache
+D:\Education\3 курс 2 сем\KMZI\Lab12\Sign\Ell-Gamal_sign\obj\Debug\Ell-Gamal_sign.csproj.SuggestedBindingRedirects.cache
+D:\Education\3 курс 2 сем\KMZI\Lab12\Sign\Ell-Gamal_sign\obj\Debug\Ell-Gamal_sign.csproj.CoreCompileInputs.cache
+D:\Education\3 курс 2 сем\KMZI\Lab12\Sign\Ell-Gamal_sign\obj\Debug\Ell-Gamal_sign.exe
+D:\Education\3 курс 2 сем\KMZI\Lab12\Sign\Ell-Gamal_sign\obj\Debug\Ell-Gamal_sign.pdb

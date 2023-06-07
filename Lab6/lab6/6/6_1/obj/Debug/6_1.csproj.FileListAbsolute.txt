@@ -1,0 +1,23 @@
+C:\Users\thesi\Desktop\6\Крипта\6\лабораторная работа 6\6_1\6_1\bin\Debug\6_1.exe.config
+C:\Users\thesi\Desktop\6\Крипта\6\лабораторная работа 6\6_1\6_1\bin\Debug\6_1.exe
+C:\Users\thesi\Desktop\6\Крипта\6\лабораторная работа 6\6_1\6_1\bin\Debug\6_1.pdb
+C:\Users\thesi\Desktop\6\Крипта\6\лабораторная работа 6\6_1\6_1\obj\Debug\6_1.csproj.AssemblyReference.cache
+C:\Users\thesi\Desktop\6\Крипта\6\лабораторная работа 6\6_1\6_1\obj\Debug\6_1.csproj.CoreCompileInputs.cache
+C:\Users\thesi\Desktop\6\Крипта\6\лабораторная работа 6\6_1\6_1\obj\Debug\6_1.exe
+C:\Users\thesi\Desktop\6\Крипта\6\лабораторная работа 6\6_1\6_1\obj\Debug\6_1.pdb
+D:\Education\3 курс 2 сем\KMZI\6\лабораторная работа 6\6_1\6_1\bin\Debug\6_1.exe.config
+D:\Education\3 курс 2 сем\KMZI\6\лабораторная работа 6\6_1\6_1\bin\Debug\6_1.exe
+D:\Education\3 курс 2 сем\KMZI\6\лабораторная работа 6\6_1\6_1\bin\Debug\6_1.pdb
+D:\Education\3 курс 2 сем\KMZI\6\лабораторная работа 6\6_1\6_1\obj\Debug\6_1.csproj.AssemblyReference.cache
+D:\Education\3 курс 2 сем\KMZI\6\лабораторная работа 6\6_1\6_1\obj\Debug\6_1.csproj.SuggestedBindingRedirects.cache
+D:\Education\3 курс 2 сем\KMZI\6\лабораторная работа 6\6_1\6_1\obj\Debug\6_1.csproj.CoreCompileInputs.cache
+D:\Education\3 курс 2 сем\KMZI\6\лабораторная работа 6\6_1\6_1\obj\Debug\6_1.exe
+D:\Education\3 курс 2 сем\KMZI\6\лабораторная работа 6\6_1\6_1\obj\Debug\6_1.pdb
+D:\Lab6\лабораторная работа 6\6_1\6_1\bin\Debug\6_1.exe.config
+D:\Lab6\лабораторная работа 6\6_1\6_1\bin\Debug\6_1.exe
+D:\Lab6\лабораторная работа 6\6_1\6_1\bin\Debug\6_1.pdb
+D:\Lab6\лабораторная работа 6\6_1\6_1\obj\Debug\6_1.csproj.AssemblyReference.cache
+D:\Lab6\лабораторная работа 6\6_1\6_1\obj\Debug\6_1.csproj.SuggestedBindingRedirects.cache
+D:\Lab6\лабораторная работа 6\6_1\6_1\obj\Debug\6_1.csproj.CoreCompileInputs.cache
+D:\Lab6\лабораторная работа 6\6_1\6_1\obj\Debug\6_1.exe
+D:\Lab6\лабораторная работа 6\6_1\6_1\obj\Debug\6_1.pdb

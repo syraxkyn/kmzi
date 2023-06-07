@@ -1,0 +1,15 @@
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\bin\Debug\Shorn_sign.exe.config
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\bin\Debug\Shorn_sign.exe
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\bin\Debug\Shorn_sign.pdb
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\obj\Debug\Shorn_sign.csprojAssemblyReference.cache
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\obj\Debug\Shorn_sign.csproj.CoreCompileInputs.cache
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\obj\Debug\Shorn_sign.exe
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\obj\Debug\Shorn_sign.pdb
+D:\Education\3 курс 2 сем\KMZI\Lab12\Sign\Shorn_sign\bin\Debug\Shorn_sign.exe.config
+D:\Education\3 курс 2 сем\KMZI\Lab12\Sign\Shorn_sign\bin\Debug\Shorn_sign.exe
+D:\Education\3 курс 2 сем\KMZI\Lab12\Sign\Shorn_sign\bin\Debug\Shorn_sign.pdb
+D:\Education\3 курс 2 сем\KMZI\Lab12\Sign\Shorn_sign\obj\Debug\Shorn_sign.csproj.AssemblyReference.cache
+D:\Education\3 курс 2 сем\KMZI\Lab12\Sign\Shorn_sign\obj\Debug\Shorn_sign.csproj.SuggestedBindingRedirects.cache
+D:\Education\3 курс 2 сем\KMZI\Lab12\Sign\Shorn_sign\obj\Debug\Shorn_sign.csproj.CoreCompileInputs.cache
+D:\Education\3 курс 2 сем\KMZI\Lab12\Sign\Shorn_sign\obj\Debug\Shorn_sign.exe
+D:\Education\3 курс 2 сем\KMZI\Lab12\Sign\Shorn_sign\obj\Debug\Shorn_sign.pdb
